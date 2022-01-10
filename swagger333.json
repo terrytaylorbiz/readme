@@ -47,7 +47,7 @@
         "tags": [
           "pet"
         ],
-        "summary": "uploads an image",
+        "summary": "fucking uploads an image",
         "description": "",
         "operationId": "uploadFile",
         "consumes": [
